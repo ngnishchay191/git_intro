@@ -1,5 +1,7 @@
 function greet(name) {
-console.log(' greet hola' + name)
+console.log('knock knock knock' + name)
+console.log('knock knock knock' + name)
+console.log('knock knock knock' + name)
 }
 
 greet('Nishchay')
